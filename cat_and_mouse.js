@@ -9,4 +9,4 @@ function catAndMouse(x, y, z) {
         return "Mouse C";
     }
 }
-console.log(catAndMouse([[1,2,3],[1,3,2]]));
+console.log(catAndMouse(1, 3, 2));
