@@ -1,5 +1,4 @@
 function countingValleys(steps, path) {
-    let sea = 0;
     let Count = 0;
     let alt = 0;
 
